@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Krishna 👋
 
-<!--
-**kb2605/kb2605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack software engineer with a background in enterprise application support and a current focus on cloud-native, AI-powered systems.
 
-Here are some ideas to get you started:
+- 🎓 M.S. Computer Science @ University of Dayton — cloud-native systems, AI-powered applications
+- 💼 Currently: Full Stack Developer @ Think Round, Inc. — building features on a Next.js + Sanity CMS monorepo
+- 🧠 Trained and evaluated Flyer GPT (UD's generative AI assistant) — data curation, response evaluation, knowledge base expansion
+- 🏦 2 years providing L2/L3 production support for core banking systems (Java, Oracle, SQL)
+- 🌱 Currently deepening: Sanity CMS + schema design, TypeScript, testing (Jest/Pytest)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech I work with:**
+
+`Java` `Python` `SQL` `JavaScript` `Next.js` `React` `Sanity.io` `Flask` `MySQL` `Oracle` `Git`
+
+**Recent work:**
+- Designed a `currentExhibition` Sanity schema and built the listing + detail pages for a live "Current & Upcoming Exhibitions" feature
+
+📫 Reach me: kb.penumarthi@gmail.com | [LinkedIn](https://www.linkedin.com/in/krishna-penumarthi/)
